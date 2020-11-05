@@ -1,6 +1,6 @@
 {
   "name": "rabbitmq-rpc-handler",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A RabbitMQ RPC handler to make and reicive RPC calls easier.",
   "main": "index.js",
   "scripts": {
