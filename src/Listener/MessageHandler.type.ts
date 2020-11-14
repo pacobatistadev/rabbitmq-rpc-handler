@@ -1,0 +1,1 @@
+export type MessageHandler<T = any> = (payload: T) => string | object
