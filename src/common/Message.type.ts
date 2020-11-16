@@ -1,0 +1,1 @@
+export type Message = { pattern: string, message: string | object }

@@ -1,0 +1,1 @@
+export type MessageAdapter = (pattern: string, message: string | object) => string | object
